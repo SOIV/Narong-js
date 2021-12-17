@@ -8,7 +8,7 @@ project - 나룽_Narong-js
 
 라이브러리 - discord.js [Node.js]
 
-Kor-Disccord-BOT_C_2020
+Kor-Disccord-BOT_C_2021
 
 ## 안내사향
 이봇은 이 제작자의 개인 디스코드 봇이며 그외에 다른 사용자에게는 서버에 넣을수있는 링크를 배포를 하지 않을것이며
